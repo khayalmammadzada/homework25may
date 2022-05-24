@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6D692D35-E624-4586-96F9-F9CA4F0702DD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sumofnumbers/Program.cs">
+    <Files>
+      <File FileName="sumofnumbers/Program.cs" Line="20" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sumofnumbers" expanded="True">
+            <Node name="sumofnumbers" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.sumofnumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

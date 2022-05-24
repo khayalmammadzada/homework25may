@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F8392C3E-B3E9-4E44-8CAC-0AD0088EC5A7}|Default">
+  <MonoDevelop.Ide.ItemProperties.biggestofthree PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="biggestofthree/Program.cs">
+    <Files>
+      <File FileName="biggestofthree/Program.cs" Line="19" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="biggestofthree" expanded="True">
+            <Node name="biggestofthree" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

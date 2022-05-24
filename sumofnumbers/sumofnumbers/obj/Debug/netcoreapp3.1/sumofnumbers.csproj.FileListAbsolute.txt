@@ -1,0 +1,13 @@
+/Users/khayalmammadzada/Desktop/newfolder/sumofnumbers/sumofnumbers/obj/Debug/netcoreapp3.1/sumofnumbers.csproj.AssemblyReference.cache
+/Users/khayalmammadzada/Desktop/newfolder/sumofnumbers/sumofnumbers/obj/Debug/netcoreapp3.1/sumofnumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khayalmammadzada/Desktop/newfolder/sumofnumbers/sumofnumbers/obj/Debug/netcoreapp3.1/sumofnumbers.AssemblyInfoInputs.cache
+/Users/khayalmammadzada/Desktop/newfolder/sumofnumbers/sumofnumbers/obj/Debug/netcoreapp3.1/sumofnumbers.AssemblyInfo.cs
+/Users/khayalmammadzada/Desktop/newfolder/sumofnumbers/sumofnumbers/obj/Debug/netcoreapp3.1/sumofnumbers.csproj.CoreCompileInputs.cache
+/Users/khayalmammadzada/Desktop/newfolder/sumofnumbers/sumofnumbers/bin/Debug/netcoreapp3.1/sumofnumbers.deps.json
+/Users/khayalmammadzada/Desktop/newfolder/sumofnumbers/sumofnumbers/bin/Debug/netcoreapp3.1/sumofnumbers.runtimeconfig.json
+/Users/khayalmammadzada/Desktop/newfolder/sumofnumbers/sumofnumbers/bin/Debug/netcoreapp3.1/sumofnumbers.runtimeconfig.dev.json
+/Users/khayalmammadzada/Desktop/newfolder/sumofnumbers/sumofnumbers/bin/Debug/netcoreapp3.1/sumofnumbers.dll
+/Users/khayalmammadzada/Desktop/newfolder/sumofnumbers/sumofnumbers/bin/Debug/netcoreapp3.1/sumofnumbers.pdb
+/Users/khayalmammadzada/Desktop/newfolder/sumofnumbers/sumofnumbers/obj/Debug/netcoreapp3.1/sumofnumbers.dll
+/Users/khayalmammadzada/Desktop/newfolder/sumofnumbers/sumofnumbers/obj/Debug/netcoreapp3.1/sumofnumbers.pdb
+/Users/khayalmammadzada/Desktop/newfolder/sumofnumbers/sumofnumbers/obj/Debug/netcoreapp3.1/sumofnumbers.genruntimeconfig.cache

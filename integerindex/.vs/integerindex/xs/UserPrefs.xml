@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B0C37905-6104-473F-8462-B51BE466557D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="integerindex/Program.cs">
+    <Files>
+      <File FileName="integerindex/Program.cs" Line="21" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="integerindex" expanded="True">
+            <Node name="integerindex" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.integerindex PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

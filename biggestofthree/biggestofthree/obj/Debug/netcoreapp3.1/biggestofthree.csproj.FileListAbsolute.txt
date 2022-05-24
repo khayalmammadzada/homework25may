@@ -1,0 +1,13 @@
+/Users/khayalmammadzada/Desktop/newfolder/biggestofthree/biggestofthree/obj/Debug/netcoreapp3.1/biggestofthree.csproj.AssemblyReference.cache
+/Users/khayalmammadzada/Desktop/newfolder/biggestofthree/biggestofthree/obj/Debug/netcoreapp3.1/biggestofthree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khayalmammadzada/Desktop/newfolder/biggestofthree/biggestofthree/obj/Debug/netcoreapp3.1/biggestofthree.AssemblyInfoInputs.cache
+/Users/khayalmammadzada/Desktop/newfolder/biggestofthree/biggestofthree/obj/Debug/netcoreapp3.1/biggestofthree.AssemblyInfo.cs
+/Users/khayalmammadzada/Desktop/newfolder/biggestofthree/biggestofthree/obj/Debug/netcoreapp3.1/biggestofthree.csproj.CoreCompileInputs.cache
+/Users/khayalmammadzada/Desktop/newfolder/biggestofthree/biggestofthree/bin/Debug/netcoreapp3.1/biggestofthree.deps.json
+/Users/khayalmammadzada/Desktop/newfolder/biggestofthree/biggestofthree/bin/Debug/netcoreapp3.1/biggestofthree.runtimeconfig.json
+/Users/khayalmammadzada/Desktop/newfolder/biggestofthree/biggestofthree/bin/Debug/netcoreapp3.1/biggestofthree.runtimeconfig.dev.json
+/Users/khayalmammadzada/Desktop/newfolder/biggestofthree/biggestofthree/bin/Debug/netcoreapp3.1/biggestofthree.dll
+/Users/khayalmammadzada/Desktop/newfolder/biggestofthree/biggestofthree/bin/Debug/netcoreapp3.1/biggestofthree.pdb
+/Users/khayalmammadzada/Desktop/newfolder/biggestofthree/biggestofthree/obj/Debug/netcoreapp3.1/biggestofthree.dll
+/Users/khayalmammadzada/Desktop/newfolder/biggestofthree/biggestofthree/obj/Debug/netcoreapp3.1/biggestofthree.pdb
+/Users/khayalmammadzada/Desktop/newfolder/biggestofthree/biggestofthree/obj/Debug/netcoreapp3.1/biggestofthree.genruntimeconfig.cache

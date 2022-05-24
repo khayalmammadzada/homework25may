@@ -1,0 +1,13 @@
+/Users/khayalmammadzada/Desktop/newfolder/integerindex/integerindex/obj/Debug/netcoreapp3.1/integerindex.csproj.AssemblyReference.cache
+/Users/khayalmammadzada/Desktop/newfolder/integerindex/integerindex/obj/Debug/netcoreapp3.1/integerindex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khayalmammadzada/Desktop/newfolder/integerindex/integerindex/obj/Debug/netcoreapp3.1/integerindex.AssemblyInfoInputs.cache
+/Users/khayalmammadzada/Desktop/newfolder/integerindex/integerindex/obj/Debug/netcoreapp3.1/integerindex.AssemblyInfo.cs
+/Users/khayalmammadzada/Desktop/newfolder/integerindex/integerindex/obj/Debug/netcoreapp3.1/integerindex.csproj.CoreCompileInputs.cache
+/Users/khayalmammadzada/Desktop/newfolder/integerindex/integerindex/bin/Debug/netcoreapp3.1/integerindex.deps.json
+/Users/khayalmammadzada/Desktop/newfolder/integerindex/integerindex/bin/Debug/netcoreapp3.1/integerindex.runtimeconfig.json
+/Users/khayalmammadzada/Desktop/newfolder/integerindex/integerindex/bin/Debug/netcoreapp3.1/integerindex.runtimeconfig.dev.json
+/Users/khayalmammadzada/Desktop/newfolder/integerindex/integerindex/bin/Debug/netcoreapp3.1/integerindex.dll
+/Users/khayalmammadzada/Desktop/newfolder/integerindex/integerindex/bin/Debug/netcoreapp3.1/integerindex.pdb
+/Users/khayalmammadzada/Desktop/newfolder/integerindex/integerindex/obj/Debug/netcoreapp3.1/integerindex.dll
+/Users/khayalmammadzada/Desktop/newfolder/integerindex/integerindex/obj/Debug/netcoreapp3.1/integerindex.pdb
+/Users/khayalmammadzada/Desktop/newfolder/integerindex/integerindex/obj/Debug/netcoreapp3.1/integerindex.genruntimeconfig.cache
